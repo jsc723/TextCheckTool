@@ -1,0 +1,12 @@
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\bin\Debug\TextCheckTool.exe.config
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\bin\Debug\TextCheckTool.exe
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\bin\Debug\TextCheckTool.pdb
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\bin\Debug\zh-Hans\TextCheckTool.resources.dll
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\obj\Debug\TextCheckTool.csprojResolveAssemblyReference.cache
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\obj\Debug\TextCheckTool.Form1.resources
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\obj\Debug\TextCheckTool.Properties.Resources.resources
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\obj\Debug\TextCheckTool.Form1.zh-Hans.resources
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\obj\Debug\TextCheckTool.csproj.GenerateResource.Cache
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\obj\Debug\zh-Hans\TextCheckTool.resources.dll
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\obj\Debug\TextCheckTool.exe
+C:\Users\jscjs\onedrive\documents\visual studio 2015\Projects\TextCheckTool\TextCheckTool\obj\Debug\TextCheckTool.pdb

@@ -1,0 +1,15 @@
+﻿ShowOutput=False
+ShowInput=False
+Opacity=1
+TopMost=True
+Choice
+润色（无错误）=0
+标点符号=0.5
+错别字、漏字、多字=1
+用词不恰当=2
+用词错误=5
+漏翻（少）=2
+漏翻（多）=6
+句子不通顺=3
+句子理解不恰当=5
+句子理解错误=10
